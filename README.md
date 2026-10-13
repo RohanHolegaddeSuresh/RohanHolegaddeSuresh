@@ -40,7 +40,7 @@ I'm a Master of Computer and Information Sciences graduate who likes turning mes
 | 📝 **Text mining pipeline** | Processed **19,320 blog posts** with XML, pandas, spaCy and TF-IDF (AUT COMP814) |
 | 🤖 **LLM chatbot in production** | Deployed with CI/CD, and wired into my portfolio via Chatbase |
 | 📄 **Published research** | AES + blockchain-based personal health record security, IJCESR (2021) |
-| 🏭 **Industry experience** | Software developer intern at Kapindra Precision Engineering (IIT Madras): sensor data acquisition pipeline |
+| 🏭 **Industry experience** | Techsupport and developer at Skills beyond education (EdTech), Software developer intern and web developer intern |
 | 📜 **25 certifications** | AWS, IBM, Google Data Analytics, J.P. Morgan (Forage) and more |
 
 ---
